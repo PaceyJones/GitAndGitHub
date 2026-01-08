@@ -1,0 +1,14 @@
+---
+title: "FirstQuarto"
+date: 2026-01-07
+format: gfm
+---
+
+#FirstQuarto ##ds4eeb
+
+I *love* to **code** 
+
+```{r}
+10+20
+
+```
